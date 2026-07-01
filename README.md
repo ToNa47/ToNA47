@@ -1,22 +1,98 @@
-<h1 align="center">Hi 👋, I'm ToNA47 (Ikker)</h1>
-<h3 align="center">A student still learning in indonesian</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tona47&label=Profile%20views&color=0e75b6&style=flat" alt="tona47" /> </p>
+# 👋 Hey, I'm ToNA47 (Ikker)
 
-- 🌱 I’m currently learning **Phyton, Java, etc**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+Developer;Python+%7C+Java+%7C+Linux;Cyber+Security+Enthusiast;Always+Learning+Something+New!" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/toujienishiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toujienishiro" height="30" width="40" /></a>
-<a href="https://instagram.com/sednzt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sednzt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sedonzet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sedonzet" height="30" width="40" /></a>
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Student from Indonesia
+- 🐍 Currently learning **Python, Java, Linux**
+- 🔒 Interested in **Cyber Security**
+- 💻 Building random projects for fun
+- 🌱 Learning something new every day
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://facebook.com/toujienishiro"><img src="https://skillicons.dev/icons?i=facebook"/></a>
+<a href="https://instagram.com/sednzt"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://youtube.com/@sedonzet"><img src="https://skillicons.dev/icons?i=youtube"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tona47&show_icons=true&locale=en&layout=compact" alt="tona47" /></p>
+## 💻 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tona47&show_icons=true&locale=en" alt="tona47" /></p>
+<p align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tona47&" alt="tona47" /></p>
+<img src="https://skillicons.dev/icons?i=python,java,linux,git,github,vscode,bash,androidstudio"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tona47&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tona47&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tona47&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tona47&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+## 🎵 Currently
+
+```text
+OS        : Linux / Windows
+Editor    : VS Code
+Language  : Python
+Status    : Learning...
+Coffee    : ██████████ 100%
+Sleep     : ██░░░░░░░░ 20%
+```
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=tona47&style=for-the-badge&color=blue)
+
+> *"Keep Building. Keep Learning."*
+
+</div>
