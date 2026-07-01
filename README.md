@@ -21,9 +21,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://facebook.com/toujienishiro"><img src="https://skillicons.dev/icons?i=facebook"/></a>
-<a href="https://instagram.com/sednzt"><img src="https://skillicons.dev/icons?i=instagram"/></a>
-<a href="https://youtube.com/@sedonzet"><img src="https://skillicons.dev/icons?i=youtube"/></a>
+  <a href="https://facebook.com/toujienishiro" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook" width="40" height="40" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/sednzt" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram" width="40" height="40" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/@sedonzet" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube" width="40" height="40" alt="YouTube"/>
+  </a>
 </p>
 
 ---
