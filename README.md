@@ -79,7 +79,7 @@
 ## 🎵 Currently
 
 ```text
-OS        : Linux / Windows
+OS        : Linux (Pop!os)
 Editor    : VS Code
 Language  : Python
 Status    : Learning...
