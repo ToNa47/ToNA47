@@ -101,9 +101,7 @@ Sleep     : ██░░░░░░░░ 20%
 
 ---
 
-<p align="center">
-
-<img height="180" src="[https://github-readme-stats.vercel.app/api?username=tona47&show_icons=true&theme=tokyonight&hide_border=true](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uTUeOvKkc15uxAbwRmHt9_-3I2Z5vJnn3SOKh65OBQ&s=10)"/>
+<img height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uTUeOvKkc15uxAbwRmHt9_-3I2Z5vJnn3SOKh65OBQ&s=10"/>
 
 > *"Keep Building. Keep Learning."*
 
