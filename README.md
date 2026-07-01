@@ -27,7 +27,7 @@
   <a href="https://instagram.com/sednzt" target="_blank">
     <img src="https://cdn.simpleicons.org/instagram" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="https://youtube.com/@sedonzet" target="_blank">
+  <a href="https://youtube.com/@sedonzets" target="_blank">
     <img src="https://cdn.simpleicons.org/youtube" width="40" height="40" alt="YouTube"/>
   </a>
 </p>
