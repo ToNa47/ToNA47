@@ -101,7 +101,9 @@ Sleep     : ██░░░░░░░░ 20%
 
 ---
 
-<img height="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uTUeOvKkc15uxAbwRmHt9_-3I2Z5vJnn3SOKh65OBQ&s=10"/>
+<img height="180" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2uTUeOvKkc15uxAbwRmHt9_-3I2Z5vJnn3SOKh65OBQ&s=10](https://imphnen.dev/logo.webp)"/>
+
+---
 
 > *"Keep Building. Keep Learning."*
 
