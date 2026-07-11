@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm ToNA47 (Ikker)
+# 👋 Hey, I'm ToNa47 (Ikker)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+Developer;Python+%7C+Java+%7C+Linux;Cyber+Security+Enthusiast;Always+Learning+Something+New!" />
 
